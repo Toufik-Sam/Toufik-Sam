@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Toufik-Sam a junior developer
+- 👋 Hi, I’m @Toufik-Sam a junior software developer
 - 👀 I’m interested in software development 
 - 🌱 I’m currently diving into solid principles and RestFull APIs
 - 📫 How to reach me [toufik.sam2022@gmail.com](mailto:toufik.sam2022@gmail.com)
